@@ -1,0 +1,2 @@
+Linux memory layout:
+https://www.thegeekstuff.com/2012/03/linux-processes-memory-layout/
