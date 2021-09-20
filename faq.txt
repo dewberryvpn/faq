@@ -1,2 +1,10 @@
 Linux memory layout:
 https://www.thegeekstuff.com/2012/03/linux-processes-memory-layout/
+=========================================================================
+What Little-Endian and Big-Endian?
+https://sites.google.com/site/cinterview/programmes/little-big-endian
+http://clinuxcode.blogspot.com/2014/01/what-is-endianness-little-endian-and.html
+=========================================================================
+reverse a linked list
+https://www.geeksforgeeks.org/reverse-a-linked-list/
+=========================================================================
